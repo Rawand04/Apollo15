@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30759481a8161ec4c945787af8d8415c, type: 3}
+  m_Name: Deployment_Seismometer
+  m_EditorClassIdentifier: SpaceSeries.Core::SpaceSeries.Core.Dialogue.DialogueSequenceSO
+  _dialogueId: Deployment_Seismometer
+  _title: Passive Seismic Experiment Deployment
+  _lines:
+  - _speaker: {fileID: 11400000, guid: 7c11a011d456488bb150d001da5e1501, type: 2}
+    _portraitMood: Normal
+    _customPortraitOverride: {fileID: 0}
+    _text: 'Houston, in my left hand I have a feather; in my right hand, a hammer. Passive Seismic Experiment is leveled on the surface.'
+    _voiceClip: {fileID: 8300000, guid: 9479a959e18972f428696e0a7f2d6ceb, type: 3}
+    _charactersPerSecond: 45
+    _autoAdvanceDelay: -1
+    _onLineCompletedActions: []
+  - _speaker: {fileID: 11400000, guid: 7c11a011d456488bb150d001da5e1502, type: 2}
+    _portraitMood: Normal
+    _customPortraitOverride: {fileID: 0}
+    _text: 'Roger that, Dave. Houston copies telemetry confirmed on the Hadley plain. Galileo was correct in his findings.'
+    _voiceClip: {fileID: 8300000, guid: ad467307de834154c9db0fd952bc65f9, type: 3}
+    _charactersPerSecond: 45
+    _autoAdvanceDelay: -1
+    _onLineCompletedActions: []
+  _nextSequence: {fileID: 0}
+  _allowSkipEntireSequence: 1
+  _onStartActions: []
+  _onEndActions: []

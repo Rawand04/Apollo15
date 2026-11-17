@@ -1,0 +1,107 @@
+﻿{
+  "dialogueId": "Dialogue_Apollo15_03_ALSEP",
+  "title": "Act III: ALSEP Deployment & Nuclear Power on the Moon",
+  "category": "ALSEPDialogue",
+  "historicalDate": "July 31, 1971 (EVA-1)",
+  "characters": ["David Scott", "James Irwin", "Joe Allen (CAPCOM)"],
+  "lines": [
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Normal",
+      "text": "We are roughly 110 meters west-northwest of Falcon, clear of any ascent engine blast zone. Jim, let's unpack the Apollo Lunar Surface Experiments Package.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Focused",
+      "text": "Central Station box is on the ground. Opening the sunshields and aligning the helical transmitter antenna toward Earth. Frequency will downlink at 2278.0 MHz.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Focused",
+      "text": "Now for our power plant: the SNAP-27 Radioisotope Thermoelectric Generator. I have the fueling tool in hand. Unlatching the graphite cask on the descent stage.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Normal",
+      "text": "Careful, Dave. That four-kilogram fuel capsule of Plutonium-238 is glowing with radioactive thermal decay. Half-life is 89.6 years.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Normal",
+      "text": "Sliding the rod smoothly into the RTG's central cylinder... latched and locked! Those 442 lead-telluride thermocouples will convert that natural heat straight into 70 Watts of clean DC power.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Normal",
+      "text": "No batteries to freeze during the brutal fourteen-day lunar night. This little nuclear generator will keep ALSEP sending data back to Earth for years to come.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Normal",
+      "text": "Let's emplace the experiment suite around the station. I'm unreeling the ribbon cable for the Passive Seismometer.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Focused",
+      "text": "Seismometer leveled and covered with the Mylar thermal shroud. It's sensitive enough to detect moonquakes, thermal tremors, and even our LM ascent stage when we crash it later to map the lunar interior.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Normal",
+      "text": "I'm deploying the Lunar Surface Magnetometer at the end of its 15-meter cable. Its three fluxgate sensors will measure the local magnetic field and see if the Moon has an iron core.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Focused",
+      "text": "Here goes the Suprathermal Ion Detector and Cold Cathode Ion Gauge. They'll measure positive solar ions and detect any trace atmospheric gases hovering above the surface.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Normal",
+      "text": "And the Solar Wind Spectrometer is pointing up, measuring protons and electrons flowing straight from the Sun. Now, I have to tackle the Apollo Lunar Surface Drill for the Heat Flow Experiment.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Concerned",
+      "text": "That regolith gets dense fast, Dave. Watch your heart rate on the drill.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Focused",
+      "text": "Pushing through... the flutes are clearing cuttings. Probe one is down! These sensors will measure the rate of geothermal heat leaking out from the Moon's primordial core.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "Joe Allen (CAPCOM)",
+      "portraitMood": "RadioStatic",
+      "text": "Falcon, Houston ALSEP station confirms: Central Station received initial power commands at 18:37 UT. Telemetry looks rock-solid across all seven science packages. Tremendous work, gentlemen!",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+﻿{
+  "dialogueId": "Dialogue_Apollo15_05_Ending",
+  "title": "Act V: Galileo's Experiment, The Fallen Astronaut & Liftoff",
+  "category": "EndingDialogue",
+  "historicalDate": "August 2, 1971 (EVA-3 & Ascent)",
+  "characters": ["David Scott", "James Irwin", "Joe Allen (CAPCOM)"],
+  "lines": [
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Normal",
+      "text": "Our third and final EVA is wrapping up. Jim, is the color TV camera aimed our way from the rover?",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Normal",
+      "text": "Ed Fendell in Mission Control has the camera centered right on you, Dave. The whole world is watching.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Focused",
+      "text": "\"Well, in my left hand I have a feather; in my right hand, a hammer. I guess one of the reasons we got here today was because of a gentleman named Galileo, a long time ago, who made a rather significant discovery about gravity.\"",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Normal",
+      "text": "A 1.32-kilogram aluminum geologic hammer and a 0.03-kilogram falcon feather from the Air Force Academy mascot.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Normal",
+      "text": "\"And I thought that where would be a better place to confirm his findings than on the Moon? I'll drop the two of them here, and hopefully, they'll hit the ground at the same time...\"",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Excited",
+      "text": "<color=#FFFF55>THUMP!</color> Both at the exact same instant! In the vacuum of space, without air resistance, gravity accelerates all masses identically!",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Normal",
+      "text": "\"How about that! Mr. Galileo was correct in his findings.\"",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Normal",
+      "text": "And before we ingress, Dave... the memorial.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Normal",
+      "text": "Quietly placing the small aluminum figure in the regolith, and the plaque bearing the names of fourteen brave American and Soviet explorers who gave their lives in pursuit of the stars.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Normal",
+      "text": "A solemn reminder that exploration unites all humanity. Seventy-seven point three kilograms of core tubes and rocks stowed in Falcon's cabin.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Focused",
+      "text": "Ascent stage hatch sealed. Cabin repressurized. Sixty-six hours and fifty-five minutes on the lunar surface. We are strapped into the ascent stage control console.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "Joe Allen (CAPCOM)",
+      "portraitMood": "RadioStatic",
+      "text": "Falcon, Houston. Master Arm is On. You are cleared for lunar liftoff. Al Worden is in orbit waiting aboard Endeavour.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Normal",
+      "text": "Guidance computer locked. 3, 2, 1... APS ignition!",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Excited",
+      "text": "Fifteen thousand Newtons of thrust! The ascent stage separates from the descent stage! So long, Hadley Base... we're heading home!",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    }
+  ]
+}

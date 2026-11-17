@@ -1,0 +1,6 @@
+{
+    "name": "SpaceSeries.Core",
+    "rootNamespace": "SpaceSeries.Core",
+    "references": ["SpaceSeries.Foundation", "Unity.InputSystem", "Unity.TextMeshPro", "Unity.ugui"]
+}
+
