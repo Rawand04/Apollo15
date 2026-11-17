@@ -1,0 +1,100 @@
+﻿{
+  "dialogueId": "Dialogue_Apollo15_02_Rover",
+  "title": "Act II: Unfolding the Lunar Rover & First Drive",
+  "category": "RoverDialogue",
+  "historicalDate": "July 31, 1971 (EVA-1)",
+  "characters": ["David Scott", "James Irwin", "Joe Allen (CAPCOM)"],
+  "lines": [
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Normal",
+      "text": "Jim, let's step over to Quad 1 on the LM descent stage. Time to unfold the Lunar Roving Vehicle—first time humanity has ever deployed a vehicle on another world.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Normal",
+      "text": "Grabbed the deployment lanyard. On your mark, Dave. Pulling tape 'A' to release the primary latches.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Focused",
+      "text": "She's swinging out smoothly. The chassis hinge is engaging, and the rear wheels are unfolding automatically. Now pull lanyard 'B' to let the torsion springs lock the forward chassis.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Excited",
+      "text": "<color=#FFFF55>CLACK!</color> That sound through my suit glove was music to my ears. All four wheels are down and locked on the regolith!",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Normal",
+      "text": "Look at these tires, Jim. No rubber or pressurized air—those would rupture in the vacuum or crack in the minus one-hundred-degree lunar night. They're woven zinc-coated steel wire mesh with titanium chevron treads for grip.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Normal",
+      "text": "And each wheel is powered by its own individual one-quarter-horsepower electric DC motor with harmonic drive gearing. Even if three fail, one can still roll us home.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Normal",
+      "text": "Earth weight of the rover is 210 kilograms, but here in one-sixth gravity, she weighs only 35 kilograms! I can literally lift the rear bumper with one hand.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "Joe Allen (CAPCOM)",
+      "portraitMood": "RadioStatic",
+      "text": "Falcon, Houston confirms telemetry from the LRV battery systems. Two 36-volt silver-zinc batteries reading nominal voltage.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Normal",
+      "text": "I'm strapped into the left seat. Taking hold of the central T-handle controller. Pushing forward to apply power...",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Excited",
+      "text": "We are rolling! Look at the dust arching off the mesh wheels—like twin rooster-tails in slow motion!",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Focused",
+      "text": "She handles like a dream, bouncing gently over the crater rims. Cruise speed is right around nine kilometers per hour. Jim, keep an eye on our dead-reckoning navigation console.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Focused",
+      "text": "Directional gyro and odometer are synchronized. Range from the LM: one point two kilometers. Bearing: two-zero-five toward Elbow Crater. Remember the flight rule: we must always remain within walking distance of Falcon in case the rover stops.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Normal",
+      "text": "Copy that. We have five kilometers of allowable operational radius, expanding our exploration zone ten times wider than any previous Apollo mission. Let's head for the rim of Hadley Rille!",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    }
+  ]
+}

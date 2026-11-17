@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df1e6f8a669f9444586e47e403512f00, type: 3}
+  m_Name: RoverConfig_LRV
+  m_EditorClassIdentifier: SpaceSeries.Core::SpaceSeries.Core.Vehicles.RoverConfigSO
+  _vehicleName: Boeing Lunar Roving Vehicle
+  _maxForwardSpeed: 3.8
+  _maxReverseSpeed: 2
+  _motorTorque: 400
+  _brakeTorque: 800
+  _idleDecelerationTorque: 4
+  _maxSteerAngle: 26
+  _enableFourWheelSteering: 1
+  _steeringSpeed: 8
+  _centerOfMassOffset: {x: 0, y: 0.35, z: 0.1}
+  _planetaryGravity: 1.62
+  _downforceMultiplier: 1.2

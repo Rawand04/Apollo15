@@ -1,0 +1,142 @@
+﻿{
+  "dialogueId": "Dialogue_Apollo15_01_Landing",
+  "title": "Act I: Touchdown at Hadley-Apennine & Standup EVA",
+  "category": "MissionIntro",
+  "historicalDate": "July 30-31, 1971",
+  "characters": ["David Scott", "James Irwin", "Joe Allen (CAPCOM)"],
+  "lines": [
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Focused",
+      "text": "Descent engine throttle down to 10 percent... 100 feet, descending slowly. Jim, watch that dust kicking up below the footpads.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Focused",
+      "text": "Altitude 40 feet, coming down at two feet per second. Surface visibility is getting hazy with the blowback, Dave. Pitch looks clean. Thirty feet.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Normal",
+      "text": "<color=#55FF55>CONTACT LIGHT!</color> Contact light is on!",
+      "charactersPerSecond": 40.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Normal",
+      "text": "Shutdown! Aerozine 50 and oxidizer valves closed. Falcon has touched down.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Normal",
+      "text": "Houston, <color=#00FFFF>Falcon is on the Plain at Hadley.</color>",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "Joe Allen (CAPCOM)",
+      "portraitMood": "RadioStatic",
+      "text": "Roger, Falcon. We copy you down at Hadley-Apennine! Breath of fresh air here in Mission Control. You're looking magnificent.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Normal",
+      "text": "Look at those mountains out the triangular window, Dave! Mount Hadley rises straight up over four thousand meters above us. Not a drop of haze.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Normal",
+      "text": "It's breathtaking. Because there's no atmosphere to scatter the sunlight, distances are completely deceiving. Those towering peaks look like you could reach out and touch them.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Focused",
+      "text": "Telemetry shows landing site coordinates around 26.13 degrees North, 3.63 degrees East in the Mare Imbrium basin. We tilted slightly on a crater slope, but Falcon's four gear legs are solid.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Normal",
+      "text": "Cabin pressure dumped. Suits locked. I'm opening the upper docking hatch for our Standup EVA. Time for our initial 360-degree photographic survey.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Normal",
+      "text": "I have your umbilical cables supported, Dave. Telephoto 500-millimeter lens is ready to pass up to you.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Excited",
+      "text": "Oh, what a sight! Looking south toward Saint George Crater and the Swann Range. The rim of Hadley Rille is clearly visible to the west—a dramatic chasm cutting through the lava plain.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Normal",
+      "text": "Any huge boulders blocking our driving routes for tomorrow?",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Focused",
+      "text": "Negative, Jim. The undulating mare is cratered, but the slopes are rounded. Our Lunar Roving Vehicle should navigate this terrain smoothly.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Normal",
+      "text": "Standup survey complete after 33 minutes. Hatch secured and cabin repressurized. Let's prep for our full EVA-1 egress tomorrow morning.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Normal",
+      "text": "Fast forward to EVA-1 morning: backpacks pressurized, cabin vented. Hatch is open, Dave. The porch and ladder are all yours.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Normal",
+      "text": "Backing out the hatch onto the platform... down the nine ladder rungs. Stepping onto the footpad.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Normal",
+      "text": "\"As I stand out here in the wonders of the Unknown at Hadley, I realize there's a fundamental truth to our nature. Man must explore. And this is exploration at its greatest.\"",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Normal",
+      "text": "Amen to that, Dave. Coming down behind you. The boots sink only an inch or two into this fine powder. Let's inspect Falcon's descent stage and get to work.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    }
+  ]
+}

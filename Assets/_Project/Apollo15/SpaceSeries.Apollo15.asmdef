@@ -1,0 +1,5 @@
+{
+    "name": "SpaceSeries.Apollo15",
+    "rootNamespace": "SpaceSeries.Apollo15",
+    "references": ["SpaceSeries.Core", "SpaceSeries.Foundation"]
+}

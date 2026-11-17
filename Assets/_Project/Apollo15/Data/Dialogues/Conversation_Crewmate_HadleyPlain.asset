@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30759481a8161ec4c945787af8d8415c, type: 3}
+  m_Name: Conversation_Crewmate_HadleyPlain
+  m_EditorClassIdentifier: SpaceSeries.Core::SpaceSeries.Core.Dialogue.DialogueSequenceSO
+  _dialogueId: Conversation_Crewmate_HadleyPlain
+  _title: Crew Discussion on the Hadley Plain
+  _lines:
+  - _speaker: {fileID: 11400000, guid: 7c11a011d456488bb150d001da5e1503, type: 2}
+    _portraitMood: Normal
+    _customPortraitOverride: {fileID: 0}
+    _text: 'Dave, take a look over at Mt. Hadley delta. The regolith looks firm enough for the rover, but keep an eye on battery temperature.'
+    _voiceClip: {fileID: 0}
+    _charactersPerSecond: 45
+    _autoAdvanceDelay: -1
+    _onLineCompletedActions: []
+  - _speaker: {fileID: 11400000, guid: 7c11a011d456488bb150d001da5e1501, type: 2}
+    _portraitMood: Normal
+    _customPortraitOverride: {fileID: 0}
+    _text: 'Copy that, Jim. We will deploy the seismic package first, then mount up and head for the rim.'
+    _voiceClip: {fileID: 8300000, guid: 9479a959e18972f428696e0a7f2d6ceb, type: 3}
+    _charactersPerSecond: 45
+    _autoAdvanceDelay: -1
+    _onLineCompletedActions: []
+  - _speaker: {fileID: 11400000, guid: 7c11a011d456488bb150d001da5e1502, type: 2}
+    _portraitMood: Normal
+    _customPortraitOverride: {fileID: 0}
+    _text: 'Houston here, 15. We copy nominal consumables and heart rates on both crewmen. You are GO for surface exploration.'
+    _voiceClip: {fileID: 8300000, guid: ad467307de834154c9db0fd952bc65f9, type: 3}
+    _charactersPerSecond: 45
+    _autoAdvanceDelay: -1
+    _onLineCompletedActions: []
+  _nextSequence: {fileID: 0}
+  _allowSkipEntireSequence: 1
+  _onStartActions: []
+  _onEndActions: []

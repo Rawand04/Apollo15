@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 160e9be79f3579549bb657f3fb540f6a, type: 3}
+  m_Name: Quest_ExperimentDeploymentDemo
+  m_EditorClassIdentifier: SpaceSeries.Core::SpaceSeries.Core.Missions.QuestDataSO
+  _questId: deploy_seismometer
+  _flightPlanTitle: Scientific Experiment Deployment
+  _historicalDate: July 31, 1971
+  _crew: Dave Scott (CDR), Jim Irwin (LMP)
+  _briefing: Deploy both experiments in either order.
+  _objectives:
+  - {fileID: 11400000, guid: 6c9efb07a901114479355117eed810d8, type: 2}
+  - {fileID: 11400000, guid: 40a1830cbe590f7409b45e2f7c2c1da7, type: 2}
+  _requireSequential: 0
+  _nextFlightPlan: {fileID: 0}
+  _missionCompleteChime: {fileID: 0}

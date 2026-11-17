@@ -1,0 +1,5 @@
+{
+  "name": "SpaceSeries.Apollo15.Editor",
+  "references": ["SpaceSeries.Core", "Unity.InputSystem"],
+  "includePlatforms": ["Editor"]
+}

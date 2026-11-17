@@ -1,0 +1,93 @@
+﻿{
+  "dialogueId": "Dialogue_Apollo15_04_RockCollection",
+  "title": "Act IV: Geological Traverses & The Genesis Rock",
+  "category": "RockCollectionDialogue",
+  "historicalDate": "August 1, 1971 (EVA-2)",
+  "characters": ["David Scott", "James Irwin", "Joe Allen (CAPCOM)"],
+  "lines": [
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Normal",
+      "text": "EVA-2 traverse. We've driven 12.5 kilometers southeast along the front of the Apennine Mountains, past Index, Arbeit, and Dune craters. Now we're parked at Spur Crater on the flank of Mount Hadley Delta.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Focused",
+      "text": "The slope here is steep—about 15 degrees. Planting the gnomon beside this boulder for scale, color calibration, and local vertical reference before we sample.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Excited",
+      "text": "Jim... look at that rock sitting on top of that dark breccia clast. Right there! Do you see what I see?",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Excited",
+      "text": "Oh, man! Look at the white sparkle! It looks like pure plagioclase feldspar. Is that... could that be anorthosite?",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Excited",
+      "text": "It is! Look at the cleavage faces glittering in the sunlight! It's almost entirely crystalline plagioclase. That is the primordial highland crust Dr. Silver taught us to hunt for!",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Normal",
+      "text": "If it's anorthosite from the original lunar crust, that means the early Moon really did have a magma ocean. Light feldspar crystals floated to the top like an icy scum on a cooling pond four billion years ago!",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Focused",
+      "text": "Carefully picking it up with the tongs... Sample 15415. About 270 grams of pristine, ancient history. Slipping it into documented sample bag 196.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "Joe Allen (CAPCOM)",
+      "portraitMood": "RadioStatic",
+      "text": "Spur Crater crew, Houston geologists are cheering their heads off back here! You might have just found what we came all the way to Hadley for.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Normal",
+      "text": "Tell the backroom boys we think we found what we came for: the Genesis Rock. Now let's use the rake tool to gather pebbles from this regolith for a statistical cross-section.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Focused",
+      "text": "Raking regolith now. Sifting away the fine dust... got about twenty small rock fragments trapped in the tines. Basalts, vesicular volcanic rocks, and impact breccias.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "David Scott",
+      "portraitMood": "Normal",
+      "text": "And on our way to Station 9 along the edge of Hadley Rille, we can sample the basalt ledges. Looking down three hundred meters into the canyon, you can see distinct horizontal lava flow layers stacked one over the other.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    },
+    {
+      "speaker": "James Irwin",
+      "portraitMood": "Normal",
+      "text": "Proving that Mare Imbrium was filled by vast, successive volcanic basalt floods. Between our core tubes, rake samples, and the Genesis Rock, we're bringing home over 77 kilograms of lunar truth.",
+      "charactersPerSecond": 35.0,
+      "autoAdvanceDelay": -1.0
+    }
+  ]
+}
